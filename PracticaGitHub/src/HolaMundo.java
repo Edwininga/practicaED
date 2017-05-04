@@ -2,7 +2,7 @@
 public class HolaMundo {
 	public static void main(String[] args) {
 		System.out.println("Hola MUNDO!");
-		if(caca);
+		System.out.println("HOLA WORLD");
 	}
 
 }
